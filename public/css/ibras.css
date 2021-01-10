@@ -1,0 +1,973 @@
+
+		.td-style
+		{
+		text-align:center;
+		}
+
+
+.hr2{
+		height: -1px;position: relative;top: -61px;border-width: 1px;
+
+	}
+.common-heading
+{font-family: beyond_the_mountains_regular;
+    color: white;
+    font-weight: 300;
+    padding-left: 0px;
+
+    text-align: center;
+}
+
+.common-paragraph
+{
+line-height:1.67; font-family: Open Sans;
+font-size: 15px;
+font-weight: 400;
+color:#FFFFFF;
+}
+.ima11{align-self: center;
+			display: block;
+			height: 38px;
+			float:left;}
+.img31{align-self: center;
+			display: block;
+			height: 38px;
+			float:left;
+			 }
+
+.px1{line-height:1.67; font-family: Open Sans;
+font-size: 15px;
+font-weight: 400;}
+.hc1{font-family: beyond_the_mountains_regular;font-size: 55px;position: relative;top: -33px; left:2px; margin-bottom: 17px; color:
+			#000000;}
+
+			.hb1{color:
+			#000000;font-family: beyond_the_mountains_regular;font-size: 55px;position: relative;top: -33px; left:2px; margin-bottom: 17px;}
+	
+.hr1{height:-1px;position: relative;top: -61px;border-width: 1px;}
+p{font-family:Open Sans;}
+@media only screen and (max-width:1200px)
+{
+	 .onupper #icon{
+	 display:block;
+	 } 
+	 .onupper a.icon {
+    float: right;
+    display: block;
+  }
+
+	 .onupper a{
+	 display:none;}
+	 
+	 
+
+}
+@media screen and (min-width: 1201px) 
+{
+	
+	 .onupper #icon{
+	 display:none;
+	 } 
+	 .res1{
+	 display:none !important;}
+	 #res1 a{
+	 display:none !important;}
+}
+
+/*===============================================For 2-images home page section  =======================*/
+
+
+.main_bodymenu1
+			{
+				background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+				url(http://localhost/ibraslaravel/resources/views/pages/style/images/hamburguesa4.jpg);
+		
+				background-size:cover;
+				background-color:#000000;
+				background-repeat:no-repeat;
+				margin:auto;
+				padding-bottom:278px;
+			}	
+			
+			#main_body
+			{
+				background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+				url(http://localhost/ibraslaravel/resources/views/pages/style/images/hamburguesa2.jpg);
+				background-size:cover;
+				background-color:#000000;
+				background-repeat:no-repeat;
+				margin:auto;
+				padding-bottom:408px;
+				
+			}
+			#res1
+			{
+			display: block;
+    float: right;
+    margin-top: -188px;
+    z-index: auto;
+	position:relative;
+}
+
+			
+			.main_bodymenu
+			{
+				background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+				url(http://localhost/ibraslaravel/resources/views/pages/style/images/hamburgues5.jpg);
+				background-size:cover;
+				background-color:#000000;
+				background-repeat:no-repeat;
+				margin:auto;
+				padding-bottom:76px;
+				
+			}
+			a:hover {
+            color:red;
+}
+			.top_div
+			{
+				background-image:url(http://localhost/ibraslaravel/resources/views/pages/style/images/hamburguesa2.jpg);
+			}
+			.logo
+			{
+				padding-left: 190px;
+				padding-top: 7px;
+				height: 90px;
+				float:left; 
+				padding-right:100px;
+			}
+			#main_header
+			{
+				background-color: black;
+				opacity:0.7;
+				height:140px;
+			}
+			.onupper a
+			{
+			    font-family:Open Sans;
+				font-size:15px;
+				color:#FFFFFF;
+				text-decoration:none;
+				font-weight:400;
+				padding-right:31px;
+				position: relative;
+				
+				
+			}
+			.onupper
+			{
+				position:relative;
+				top:-106px;
+				overflow: hidden;
+			height:156px;
+			}
+			.onupper .icon {
+  display: none;
+}
+
+			.triangle_border
+			{
+				background-color:none;
+				background:url(http://localhost/ibraslaravel/resources/views/pages/style/images/triangle_bg_black.png);
+				background-repeat:repeat-x;
+				top:-96.1px;
+				position: relative;
+				z-index: 0;
+				opacity: 0.7;
+				background-size:26px;
+			}
+			.triangle_border_footer
+			{
+				background:url(http://localhost/ibraslaravel/resources/views/pages/style/images/triangle_bg_black.png);
+				background-repeat:repeat-x;
+				top: 1.1em;
+				position: relative;
+				z-index: 2;
+				opacity: 1;
+								background-size:26px;
+			}
+			.new
+			{
+				background-color:#FFFFFF;
+			}			
+			#button1
+			{
+				text-align:center;
+				text-transform:uppercase;
+				position: relative;
+				color:#fff;
+				display: flex;
+  align-items: center;
+  justify-content: center;
+      top: 156px;
+			}
+#button1121
+			{
+				text-align:center;
+				text-transform:uppercase;
+				position: relative;
+				color:#fff;
+				display: flex;
+  align-items: center;
+  justify-content: center;
+      top: 156px;
+			}
+	
+button{
+	background-color:#EF0031;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+	border-top-left-radius:2px;
+	border-top-right-radius:2px;
+	border-bottom-color:#fff;
+	color: white;
+	padding:12px;
+	
+	}
+
+#triangle_bottom_border
+			{
+				background:url(http://localhost/ibraslaravel/resources/views/pages/style/images/triangle_bg_black_up.png);
+				background-repeat:repeat-x;
+				top: -9px;
+				position: relative;
+				z-index: 2;
+				opacity: 1;
+								background-size:26px;
+			}	
+	
+	
+.head{ font-family: beyond_the_mountains_regular; 
+	color:white;
+	font-weight:300;
+	position:absolute;
+    top:50%;
+	font-size:76px;
+	text-align:center;
+	width:100%;
+	color:#fff;
+	}
+.footer
+{
+
+background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(http://localhost/ibraslaravel/resources/views/pages/style/images/hamburguesa3.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+margin:auto;
+}
+.footer_centre
+{
+font-family: Open Sans;
+font-size: 15px;
+font-weight: 400;
+
+position:relative; 
+align-self: center;
+ display: block;
+margin-left: auto;
+margin-right: auto;
+}
+		@media  screen and (max-width:562px)
+{
+	.data121{
+				background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,1.67)),
+				url(http://localhost/ibraslaravel/resources/views/pages/style/images/hamburguesa1.jpg);
+				background-size:cover;
+				background-color:#000000;
+				background-repeat:no-repeat;
+				margin:auto;
+				padding-bottom:36px;
+				margin-left:0px;
+				display:none;
+			}
+	.data1211{
+					background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,1.67)),
+				url(http://localhost/ibraslaravel/resources/views/pages/style/images/hamburguesa1.jpg);
+				background-size:cover;
+				background-color:#000000;
+				background-repeat:no-repeat;
+				margin:auto;
+				padding-bottom:36px;
+				margin-left:0px;
+				display:block;
+	}		
+}
+
+		@media  screen and (min-width:563px)
+{
+	.data121{
+				background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,1.67)),
+				url(http://localhost/ibraslaravel/resources/views/pages/style/images/hamburguesa1.jpg);
+				background-size:cover;
+				background-color:#000000;
+				background-repeat:no-repeat;
+				margin:auto;
+				padding-bottom:36px;
+				margin-left:0px;
+				display:none;
+			}
+	.data1211{
+					background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,1.67)),
+				url(http://localhost/ibraslaravel/resources/views/pages/style/images/hamburguesa1.jpg);
+				background-size:cover;
+				background-color:#000000;
+				background-repeat:no-repeat;
+				margin:auto;
+				padding-bottom:36px;
+				margin-left:0px;
+				display:block;
+	}		
+}
+.data131{
+				background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,1.67)),
+				url(http://localhost/ibraslaravel/resources/views/pages/style/images/hamburguesa1.jpg);
+				background-size:cover;
+				background-color:#000000;
+				background-repeat:no-repeat;
+				margin:auto;
+				padding-bottom:36px;
+				margin-left:0px;
+			}
+
+.open-button {
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+}
+
+/* The popup form - hidden by default */
+
+
+/* Add styles to the form container */
+.form-container {
+ position: absolute;
+max-width: 580px;
+    max-height: 832px;
+  padding: 9px;
+  background-color: white;
+}
+.textfield1
+{
+   width: 100%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+    /* border: black; */
+    border-width: 1px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: black;
+    background-color: white;
+    border-top-color: black;
+    border-bottom-color: black;
+    border-left-color: black;
+    border-right-color: black;
+	font-family: Open Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 1.667;
+position: relative;
+    top: -31px;
+}
+/* Full-width input fields */
+.form-container input[type=text],.form-container input[type=email], .form-container input[type=password] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+    /* border: black; */
+    border-width: 1px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: black;
+    background-color: white;
+    border-top-color: black;
+    border-bottom-color: black;
+    border-left-color: black;
+    border-right-color: black;
+}
+
+/* When the inputs get focus, do something */
+.form-container input[type=text]:focus, .form-container input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+.form-container .btn1 {
+    background-color: white;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 0%;
+    margin-bottom: 0px;
+    opacity: 1;
+	padding:inherit;
+	
+}
+
+/* Set a style for the submit/login button */
+.form-container .btn {
+font-family: sans-serif;
+    font-size: 15px;
+    background-color: red;
+    float: right;
+    color: white;
+    padding: 0px;
+    border: none;
+    cursor: pointer;
+	top:-21px;
+    width: 98px;
+    height: 52px;
+    position: relative;
+    opacity: 1;
+}
+
+/* Add a red background color to the cancel button */
+.form-container .cancel {
+  background-color:transperent;
+  
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+.signup-element-fields
+{
+font-family: Open Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 1.667;
+position: relative;
+    top: -31px;
+}
+
+
+.signup-element{
+	position:relative;
+	top: -38px;
+}
+/* Full-width input fields */
+.form-container1 input[type=text],.form-container1 input[type=email], .form-container1 input[type=password] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+    /* border: black; */
+    border-width: 1px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: black;
+    background-color: white;
+    border-top-color: black;
+    border-bottom-color: black;
+    border-left-color: black;
+    border-right-color: black;
+}
+
+/* When the inputs get focus, do something */
+.form-container1 input[type=text]:focus, .form-container1 input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+.form-container1 .btn11 {
+    background-color: white;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 0%;
+    margin-bottom: 0px;
+    opacity: 1;
+	padding:inherit;
+	
+}
+
+/* Set a style for the submit/login button */
+.form-container1 .btn1 {
+font-family: sans-serif;
+    font-size: 15px;
+    background-color: red;
+    float: right;
+    color: white;
+    padding: 0px;
+    border: none;
+    cursor: pointer;
+	top:-21px;
+    width: 98px;
+    height: 52px;
+    position: relative;
+    opacity: 1;
+}
+
+/* Add a red background color to the cancel button */
+.form-container1 .cancel1 {
+  background-color:transperent;
+  
+}
+
+/* Add some hover effects to buttons */
+.form-container1 .btn1:hover, .open-button1:hover {
+  opacity: 1;
+}
+.signup-element-fields1
+{
+font-family: Open Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 1.667;
+position: relative;
+    top: -31px;
+}
+.signup-element1{
+	position:relative;
+	top: -38px;
+}
+.pa1{
+	line-height:1.67; font-family: Open Sans;
+font-size: 15px;
+font-weight: 400;
+color:#37B143;
+
+}
+.p1{font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: white;
+    position: absolute;
+    top: 435px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+    font-size: 17px;
+    font-weight: 500;
+		   }
+	   .h11
+		  {
+			   
+			   
+		   top:116px; 
+		   font-size:76px; 
+		   position:relative;
+		   }
+.h14
+{
+			font-family: beyond_the_mountains_regular; 
+			color:white;
+			font-weight:300; padding-left:0px; position:relative; width:100%; text-align:center;
+}
+		.img1{align-self: center;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			height: 61px;}
+		.img2{height: 313px;}
+		.div12
+		{
+		position: absolute;top: 451px;left:243px;font-size: 17px;color: white;line-height: 0%;width: 90px;border-top: 14px solid red;border-bottom: 14px solid red;border-left: none;border-right: 20px solid transparent;
+		}
+		.div13{position: absolute;top: 451px;left: 459px;font-size: 17px;color: white;line-height: 0%;width: 131px;border-top: 14px solid white;border-bottom: 14px solid white;border-left: none;border-right: 20px solid transparent;}
+		
+
+
+	.img3{height: 269px;}
+.img4
+{
+			align-self: center;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			height: 61px;
+}
+h1{font-family: beyond_the_mountains regular; color:#FFFFFF;}	
+.h12{font-family: beyond_the_mountains_regular; 
+			color:white;
+			font-weight:300; padding-left:0px; position:relative; width:100%; text-align:center;}
+					.h13{font-family: beyond_the_mountains_regular; 
+			color:white;
+			font-weight:300; padding-left:0px;  width:100%; text-align:center; font-size: 33px;}
+		.p112{font-family: beyond_the_mountains_regular; 
+			color:white;
+
+			padding-top: 42px;
+			margin-left:-75px;
+			line-height:1.667;
+			font-size: 15px;
+			font-weight:400;}
+		.p114
+		{font-family: Open Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 1.667;
+
+		}
+		.p11121{font-family: beyond_the_mountains_regular; 
+			color:white;
+
+			padding-top: 42px;
+			margin-left:4px;
+			line-height:1.667;
+			font-size: 15px;
+			font-weight:400;}
+		.level-44{font-family: Open Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 1.667;}
+		.p113
+		{
+			font-family: beyond_the_mountains_regular; 
+			color:white;
+			padding-top: 87px;
+			line-height:1.667;
+			font-size: 15px;
+						font-weight:400;
+		}
+			.table1{
+				border-color:#FFFFFF; position:relative; line-height:1.67; display:table;
+		}
+		
+		.td-div-style
+		{
+		 position: absolute;top: 85px;left:30px;font-size: 17px;color: white;line-height: 0%;width: 90px;border-top: 14px solid red;border-bottom: 14px solid red;border-left: none;border-right: 20px solid transparent;
+		}
+		.img5
+		{
+			height:180px;
+		}
+		.l1
+			{
+				color:#FFFFFF; text-align:center;
+			}
+		.btn5
+			{
+				background-color:#000000; color:#FF0000; padding-left:15px; padding-right:15px; border: 1px solid #FF0000;
+			}
+		.p21{line-height:1.67; font-family: Open Sans;
+font-size: 15px;
+font-weight: 400;
+color:#37B143;}
+.p31{
+line-height:1.67; font-family: Open Sans;
+font-size: 15px;
+font-weight: 400;
+color:#37B143;}
+
+.profile-dot {
+  position: relative;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 3rem;
+  width: 3rem;
+  background-color: lightgray;
+  border-radius: 50%;
+  border: gray 0px solid;
+  overflow: hidden;
+}
+
+.profile-dot figure {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: none;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+
+}
+
+.profile-dot {
+  position: relative;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 3rem;
+  width: 3rem;
+  background-color: lightgray;
+  border-radius: 50%;
+  border: gray 0px solid;
+  overflow: hidden;
+}
+
+.profile-dot figure {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: none;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+}
+
+.profile-dot figcaption {  
+  font-weight: 700;
+  color: #fff;
+  font-style: normal;
+  font-size: 120%;
+}
+/*===========================================================HOME PAGE======================================*/
+#b1
+{
+	margin:auto;
+	background-color:#000000;
+}
+		
+		
+						.td11
+				{background-color:#FF0000;padding: 7px;padding-right: 22px;padding-left: 20px;}
+				.td12{padding: 7px;
+    padding-right: 21px;}
+	.td13{    padding: 7px;
+    padding-right: 21px;}
+	.td14{    padding: 7px;
+    padding-right: 21px;}
+	.hr22{border-color: red;
+    border-width: 2px;
+    margin-top: -4px;}
+	.px1{font-family:Open Sans; font-size:16px; color:#FF0000;}
+			.main_bodycontactinfo
+			{
+				background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+				url(http://localhost/ibraslaravel/resources/views/pages/style/images/hamburgues7.jpg);
+				background-size:cover;
+				background-color:#000000;
+				background-repeat:no-repeat;
+				margin:auto;
+				padding-bottom:4px;
+			}
+	
+			.py1{font-family: Open Sans;
+font-size: 18px;
+font-weight: 400;	
+line-height: 1.667;
+color:#FFFFFF;}
+
+			.pw1{font-family: Open Sans;
+font-size: 18px;
+font-weight: 400;	
+line-height: 1.667;
+color:#FFFFFF;}
+		.pw2{font-family: Open Sans;
+font-size: 17px;
+font-weight: 400;	
+line-height: 1.667;
+color:#FFFFFF;}
+.pp1{font-family:Open Sans; font-size:16px; color:#FF0000;}
+
+
+		@media  screen and (min-width:501px)
+{
+.img2{
+height:313px;
+
+
+}
+
+}
+.trr-1{display:none;}
+.table112{display:none; position:relative; line-height:1.67;}
+		@media  screen and (max-width:851px)
+{
+.table1{display:none;}
+.table112{display:table;}
+.div12{top:812px;}
+.div13{top: 1142px;
+    left: 29px;}
+}
+		@media  screen and (min-width:1178px)
+{
+.extra_menu{display:block;}
+.extra_menu1{display:none;}
+
+}
+		@media  screen and (max-width:1176px)
+{
+.extra_menu{display:none;}
+.extra_menu1{display:table;}
+}
+		@media  screen and (min-width:1029px)
+{
+.form-popup {
+  display: none;
+    position: absolute;
+    top: 0;
+    left: 425px;
+    top: 30px;
+    width: 551px;
+    height: 745px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+}
+.img41{background-color:#FFFFFF;height: 27px;width: 26px;top: 13px;left: 519px;position: absolute;float: right;}
+.form-popup1 {
+  display: none;
+    position: absolute;
+    top: 0;
+    left: 425px;
+    top: 30px;
+    width: 578px;
+    height: 444px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+}
+
+
+/* Add styles to the form container */
+.form-container1 {
+ position: absolute;
+width: 561px;
+    max-height: 792px;
+  padding: 9px;
+  background-color: white;
+}
+.im11{background-color:#FFFFFF;height: 27px;width: 26px;top: 13px;left: 539px;position: absolute;float: right;}
+}
+		@media  screen and (max-width:1028px)
+{
+.form-popup {
+  display: none;
+    position: absolute;
+    top: 0;
+    left: 29px;
+    top: 30px;
+    width: 296px;
+    height: 808px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+}
+
+.img41{background-color:#FFFFFF;height: 27px;width: 26px;top: 13px;left: 268px;position: absolute;float: right;}
+.form-popup1 {
+  display: none;
+    position: absolute;
+    top: 0;
+    left: 15px;
+    top: 30px;
+    width: 307px;
+    height: 444px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+}
+/* Add styles to the form container */
+.form-container1 {
+ position: absolute;
+width: 296px;
+left:-3px;
+    max-height: 792px;
+  padding: 9px;
+  background-color: white;
+}
+.im11{background-color:#FFFFFF;height: 27px;width: 26px;top: 13px;left: 279px;position: absolute;float: right;}
+}
+
+@media  screen and (min-width:1281px)
+{
+.twoimage{display:block;}
+}
+
+@media  screen and (max-width:1280px)
+{
+.twoimagetwoone{display:block;}
+.twoimage{display:none;}
+}
+@media screen and (min-width: 1281px)
+{
+.twoimagetwoone{display:none;}
+}
+		@media  screen and (min-width:1020px)
+{
+.contact{display:block;}
+.contactone{display:none;}
+.inx2{font-style:italic;width: 985px;
+    height: 42px;
+    border-color: white;
+    border-width: thin; position:relative;}
+	
+.inx3{ font-style:italic;width: 985px;
+    height:172px;
+    border-color: white;
+    border-width: thin; position:relative;}
+	.inx1{ font-style:italic;width: 472px;
+    height: 42px;
+    border-color: white;
+    border-width: thin; position:relative;}
+
+}
+		@media  screen and (max-width:1019px)
+{
+.contact{display:none;}
+.contactone{display:table;}
+.inx2{font-style:italic;width: 470px;
+    height: 42px;
+	left:10px;
+    border-color: white;
+    border-width: thin; position:relative;}
+	.inx1{ font-style:italic;width: 472px;
+    height: 42px;
+    border-color: white;
+	left:10px;
+    border-width: thin; position:relative;}
+
+	
+.inx3{ font-style:italic;width: 470px;
+    height:172px;
+    border-color: white;
+	left:10px;
+    border-width: thin; position:relative;}
+}
+		@media  screen and (min-width:1154px)
+{
+.aboutone{display:block;}
+#level2{display:block;}
+.abouttwo{display:none;}
+#level3{display:none;}
+}
+		@media  screen and (max-width:1153px)
+{
+.aboutone{display:none;}
+#level2{display:none;}
+.abouttwo{display:block;}
+#level3{display:block;}
+
+}
+
+html,body
+{
+overflow-x:hidden;
+}
+@media  screen and (max-width:971px)
+{
+.tbadmin2{display:block;}
+.tbadmin1{display:none;}
+}
+@media screen and (min-width: 972px)
+{
+.tbadmin1{display:block;}
+.tbadmin2{display:none;}
+
+}
