@@ -1,0 +1,8 @@
+Tomm Sietsema,Rooster and Owl,2.5,El Sapo Cuban Social Club,3.5,St. Anselm,3.0,Shibumi,3.5,Mama Chang,2.5,Punjab Grill,3.0
+Jonathan Golder,Rooster and Owl,3.0,El Sapo Cuban Social Club,3.5,St. Anselm,1.5,Shibumi,5.0,Punjab Grill,3.0,Mama Chang,3.5
+Brette Anderson,Rooster and Owl,2.5,El Sapo Cuban Social Club,3.0,Shibumi,3.5,Punjab Grill,4.0
+Michael Baumer,El Sapo Cuban Social Club,3.5,St. Anselm,3.0,Punjab Grill,4.5,Shibumi,4.0,Mama Chang,2.5
+Corby Kumar,Rooster and Owl,3.0,El Sapo Cuban Social Club,4.0,St. Anselm,2.0,Shibumi,3.0,Punjab Grill,3.0,Mama Chang,2.0
+Pete Wellsworth,Rooster and Owl,3.0,El Sapo Cuban Social Club,4.0,Punjab Grill,3.0,Shibumi,5.0,Mama Chang,3.5
+Jay Samuel,El Sapo Cuban Social Club,4.5,Mama Chang,1.0,Shibumi,4.0
+
